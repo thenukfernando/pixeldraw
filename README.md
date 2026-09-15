@@ -1,5 +1,5 @@
 # PixelDraw 🎨
-[📄Report](ECE243%20Final%20Project%20Report.pdf)
+📄 [Report](ECE243%20Final%20Project%20Report.pdf)
 
 An interactive drawing system that turns physical marker movements into real-time artwork on a VGA monitor, built on the DE1-SoC FPGA board.
 
