@@ -13,7 +13,6 @@ A webcam tracks a green marker using OpenCV HSV color-space filtering. The (x,y)
 - Etch-A-Sketch shake-to-clear gesture
 - Undo buffer and cursor preview
 - Save canvas to PC as a PNG image
-- Decorative start screen
 
 ## Controls
 | Input | Action |
